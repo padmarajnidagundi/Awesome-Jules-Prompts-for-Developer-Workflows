@@ -139,3 +139,17 @@ single-responsibility functions.
 
 ✅ Review the Jules plan output before accepting and triggering PRs.
 
+🚀 License
+MIT License - feel free to use in your projects
+
+Contact
+Author: Padmaraj Nidagundi
+
+Email: padmaraj.nidagundi@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/padmarajn/
+
+GitHub: [https://github.com/padmarajnidagundi/Awesome-Jules-Prompts-for-Developer-Workflows/](https://github.com/padmarajnidagundi/Awesome-Jules-Prompts-for-Developer-Workflows/)
+
+Ref / https://jules.google/docs/code/
+
